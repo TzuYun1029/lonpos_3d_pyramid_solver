@@ -1,0 +1,62 @@
+{
+    "#F": {
+        "colours": {
+            "normal_bg": "#ffffff"
+        }
+    },
+    "#K": {
+        "colours": {
+            "normal_bg": "#53ff1f"
+        }
+    },
+    "#A": {
+        "colours": {
+            "normal_bg": "#ff5b03"
+        }
+    },
+    "#J": {
+        "colours": {
+            "normal_bg": "#9600e0"
+        }
+    },
+    "#L": {
+        "colours": {
+            "normal_bg": "#919191"
+        }
+    },
+    "#G": {
+        "colours": {
+            "normal_bg": "#2bdcff"
+        }
+    },
+    "#H": {
+        "colours": {
+            "normal_bg": "#ff69d4"
+        }
+    },
+    "#C": {
+        "colours": {
+            "normal_bg": "#001cbd"
+        }
+    },
+    "#E": {
+        "colours": {
+            "normal_bg": "#005e1f"
+        }
+    },
+    "#I": {
+        "colours": {
+            "normal_bg": "#fff429"
+        }
+    },
+    "#D": {
+        "colours": {
+            "normal_bg": "#ffd7c4"
+        }
+    },
+    "#B": {
+        "colours": {
+            "normal_bg": "#ed0c0c"
+        }
+    }
+}
