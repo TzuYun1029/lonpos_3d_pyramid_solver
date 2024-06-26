@@ -1,4 +1,4 @@
-# Longpos Pyramid Answer Generator
+# Lonpos 3D Pyramid Solver
 
 ## Installation
 
