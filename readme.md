@@ -1,13 +1,18 @@
 # Longpos Pyramid Answer Generator
 
 ## Installation
+
+### Option 1: Run the Executable
+Simply run LonposSolver.exe at: https://drive.google.com/drive/folders/1XbTbyEW58bNMgjPDBfCurACeV8GEhxFC.
+
+### Option 2: Run the Source Code
 Source code is located in the `source_code` folder.
 
-1. Install required dependencies:
+Install required dependencies: 
 ```
 pip install -r requirements.txt
 ```
-2. Execute the main script:
+Execute the main script: 
 ```
 python main.py
 ```
